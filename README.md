@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there 👋 I'm a Psychotherapist → HR Professional → Full Stack Developer (in progress)
 
-<!--
-**lalegulvolkan4-tech/lalegulvolkan4-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I am a people-centered professional with a background in **psychotherapy and human resources**, currently transitioning into **full stack software development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building digital products that combine **human understanding, systems thinking, and clean code**.
+
+- 🧠 Background: Psychotherapy & Human Resources
+- 💻 Currently learning: Full Stack Web Development
+- 🌍 Working across: Türkiye, United Kingdom & Ireland
+- 🎯 Focus: Frontend, Backend, and scalable web applications
+
+---
+
+## 🌐 Languages
+
+- 🇹🇷 Turkish — Native
+- 🇬🇧 English — Advanced
+- 🇩🇪 German — Intermediate
+
+---
+
+## 🚀 Current Learning Path
+
+- HTML, CSS, JavaScript (deepening fundamentals)
+- React / Next.js
+- Node.js & Express
+- REST APIs
+- Databases (SQL / NoSQL)
+- Git & GitHub workflows
+
+---
+
+## 💡 Interests
+
+- Human-centered software design
+- Psychology & technology intersection
+- HR systems and digital transformation
+- Clean architecture & scalable backend systems
+
+---
+
+## 📍 Location
+
+Türkiye | United Kingdom | Ireland
+
+---
+
+## 📫 Let's Connect
+
+Feel free to reach out if you'd like to collaborate or talk about tech, psychology, or HR systems.
