@@ -1,4 +1,4 @@
-# Hi there 👋 I'm a Psychotherapist → HR Professional → Full Stack Developer (in progress)
+# Hi there 👋 I'm a Psychotherapist → HR Professional → Full Stack Developer
 
 ## 👨‍💻 About Me
 
@@ -40,6 +40,12 @@ I enjoy building digital products that combine **human understanding, systems th
 - Clean architecture & scalable backend systems
 
 ---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,java,spring,postgresql,html,css,javascript,typescript,git,github,tailwind,vscode" />
+</p>
 
 ## 📍 Location
 
