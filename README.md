@@ -1,19 +1,19 @@
-# Hi there 👋 I'm a Psychotherapist → HR Professional → Full Stack Developer
+# Hi there ! I'm a Psychotherapist → HR Professional → Full Stack Developer
 
-## 👨‍💻 About Me
+##  About Me
 
 I am a people-centered professional with a background in **psychotherapy and human resources**, currently transitioning into **full stack software development**.
 
 I enjoy building digital products that combine **human understanding, systems thinking, and clean code**.
 
-- 🧠 Background: Psychotherapy & Human Resources
-- 💻 Currently learning: Full Stack Web Development
-- 🌍 Working across: Türkiye, United Kingdom & Ireland
-- 🎯 Focus: Frontend, Backend, and scalable web applications
+-  Background: Psychotherapy & Human Resources
+-  Currently learning: Full Stack Web Development
+-  Working across: Türkiye, United Kingdom & Ireland
+-  Focus: Frontend, Backend, and scalable web applications
 
 ---
 
-## 🌐 Languages
+##  Languages
 
 - 🇹🇷 Turkish — Native
 - 🇬🇧 English — Advanced
@@ -21,7 +21,7 @@ I enjoy building digital products that combine **human understanding, systems th
 
 ---
 
-## 🚀 Current Learning Path
+##  Current Learning Path
 
 - HTML, CSS, JavaScript (deepening fundamentals)
 - React / Next.js
@@ -32,7 +32,7 @@ I enjoy building digital products that combine **human understanding, systems th
 
 ---
 
-## 💡 Interests
+##  Interests
 
 - Human-centered software design
 - Psychology & technology intersection
@@ -41,18 +41,18 @@ I enjoy building digital products that combine **human understanding, systems th
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,java,spring,postgresql,html,css,javascript,typescript,git,github,tailwind,vscode" />
 </p>
 
-## 📍 Location
+##  Location
 
 Türkiye | United Kingdom | Ireland
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 Feel free to reach out if you'd like to collaborate or talk about tech, psychology, or HR systems.
